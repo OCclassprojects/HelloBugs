@@ -1,13 +1,11 @@
 package com.openclassrooms;
 
-public clas HelloBugs {
+public class HelloBugs {
 
-	public static void main(String{}args) {
+	public static void main(String[] args) {
 		
-		for(i=0;i>=0;i++) {
-		System.out.println("Hello buggy code!"):
+		for(i=0;i<50;i++) {
+			System.out.println("Hello buggy code!");
 		}
-				
 	}
-
 }
