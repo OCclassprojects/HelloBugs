@@ -1,6 +1,7 @@
 package com.openclassrooms;
 
 public class HelloBugs {
+	// certain corrections has been done
 
 	public static void main(String[] args) {
 		
